@@ -1,4 +1,4 @@
-Flask Skeleton for Google App Engine (Python 2.7)
+Flask and Falcon Skeleton for Google App Engine (Python 2.7)
 ===============
 
 Steps:
